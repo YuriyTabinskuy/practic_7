@@ -1,0 +1,29 @@
+header{
+    background-color: grey;
+    height: 70px;
+    margin-top: 0px;
+}
+.title-header{
+    color: red;
+    align-items:center;
+    font-size: 40px;
+}
+hr{
+    color: red;
+    height: 2px;
+    width: 140px;
+}
+.box1{
+    background-color: black;
+    height: 400px;
+    width: 700px;
+}
+.box2{
+    background-color: red;
+    height: 100px;
+    width: 310px;
+}
+.title1{
+    color:white;
+    font-size: 70px;
+}
